@@ -16,7 +16,7 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 # Links
 [Repository: https://github.com/mhknowledge/techBlog](https://github.com/mhknowledge/techBlog)
 
-[Deployed Site: ]()
+[Deployed Site: https://blogtechsite.herokuapp.com/ ](https://blogtechsite.herokuapp.com/)
 
 # Contributing
 Developers may add more questions to the application or add more features to add more details to their project’s readme.md.
